@@ -7,5 +7,5 @@
 
 ## Data Source
 
-The data can be found on [Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud). Due to privacy issue, PAC was conducted on the dataset so we don't have the original features. The only original features we have are: **time**, **amount** and **flag**
+The data can be found on [Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud). Due to privacy issue, PCA was conducted on the dataset so we don't have the original features. The only original features we have are: **time**, **amount** and **flag**
 that can indicate fraud or not.
